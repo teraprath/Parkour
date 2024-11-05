@@ -14,4 +14,4 @@
 - Easy to use and lightweight
 - Fully customizable (Modular System)
 - New movement abilities: Double Jump, Crash Jump, Bullet Jump, Wall Jump & Climbing!
-- Stamina System (using Hungerbar) + Resourcepack Addon
+- Stamina System (using Hungerbar) with Resourcepack (not required)
