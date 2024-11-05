@@ -1,0 +1,98 @@
+disabledWorlds:
+  - world_name_1
+  - world_name_2
+
+stamina:
+  enabled: true
+  disableHunger: true
+  regeneration:
+    delay: 5
+    amount: 1
+
+modules:
+
+  doubleJump:
+    enabled: true
+    permission: parkour.jump.double
+    strength:
+      horizontal: 1.6
+      vertical: 1.2
+    stamina: 2
+    particles:
+      enabled: true
+      hideForOthers: false
+      type: GUST_EMITTER_SMALL
+      count: 2
+      offset:
+        x: 0
+        y: 1
+        z: 0
+    sound:
+      enabled: true
+      type: ENTITY_BREEZE_WIND_BURST
+      volume: 1.0
+      pitch: 1.0
+
+  crashJump:
+    enabled: true
+    permission: parkour.jump.crash
+    strength: 3.0
+    stamina: 1
+    particles:
+      enabled: true
+      hideForOthers: false
+      type: GUST
+      count: 1
+      offset:
+        x: 0
+        y: 0
+        z: 0
+    sound:
+      enabled: true
+      type: ENTITY_WIND_CHARGE_WIND_BURST
+      volume: 1.0
+      pitch: 1.0
+
+  bulletJump:
+    enabled: true
+    permission: parkour.jump.bullet
+    strength:
+      horizontal: 1.5
+      vertical: 1.2
+    stamina: 1
+    particles:
+      enabled: true
+      hideForOthers: false
+      type: GUST_EMITTER_SMALL
+      count: 1
+      offset:
+        x: 0
+        y: 0.5
+        z: 0
+    sound:
+      enabled: true
+      type: ITEM_TRIDENT_RIPTIDE_1
+      volume: 1.0
+      pitch: 1.0
+
+  wallJump:
+    enabled: true
+    permission: parkour.jump.wall
+    strength:
+      horizontal: 1.2
+      vertical: 0.8
+    stamina: 1
+    particles:
+      enabled: true
+      hideForOthers: false
+      type: GUST
+      count: 1
+      offset:
+        x: 0
+        y: 0.5
+        z: 0
+    sound:
+      enabled: true
+      type: ENTITY_ENDER_DRAGON_FLAP
+      volume: 1.0
+      pitch: 1.0

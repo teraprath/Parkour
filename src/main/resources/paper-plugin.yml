@@ -1,0 +1,6 @@
+name: Parkour
+version: '1.0.0'
+main: dev.mending.parkour.Parkour
+api-version: '1.21'
+authors: [ MrMending ]
+description: Movement Abilities
