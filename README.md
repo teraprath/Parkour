@@ -1,5 +1,8 @@
 <div align="center">
 <div>
+    <a href="https://www.codefactor.io/repository/github/teraprath/parkour"><img src="https://www.codefactor.io/repository/github/teraprath/parkour/badge" alt="CodeFactor" /></a>
+    <br>
+    <br>
     <img src="https://raw.githubusercontent.com/teraprath/Parkour/main/img/banner_transparent.png">
     <br>
     <br>
