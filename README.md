@@ -1,6 +1,6 @@
 <div align="center">
 <div>
-    <img src="https://raw.githubusercontent.com/teraprath/Parkour/main/img/banner.png">
+    <img src="https://raw.githubusercontent.com/teraprath/Parkour/main/img/banner_transparent.png">
     <br>
     <br>
     <p>Movement Abilities for Paper 1.21+<p>
