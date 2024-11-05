@@ -1,3 +1,5 @@
+checkForUpdates: true
+
 disabledWorlds:
   - world_name_1
   - world_name_2

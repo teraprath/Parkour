@@ -11,6 +11,7 @@ import java.util.List;
 public class MainConfig extends ConfigHandler {
 
     private final List<String> disabledWorlds;
+    private boolean checkForUpdates;
 
     public MainConfig(@NotNull JavaPlugin plugin) {
         super(plugin, "config");
@@ -22,6 +23,8 @@ public class MainConfig extends ConfigHandler {
 
         this.disabledWorlds.clear();
         this.disabledWorlds.addAll(getConfig().getStringList("disabledWorlds"));
+
+        this.checkForUpdates = getConfig().getBoolean("checkForUpdates");
 
         plugin.getLogger().info("Configuration has been loaded!");
     }
