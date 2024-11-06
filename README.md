@@ -21,4 +21,4 @@
 2. Restart Server.
 3. Enjoy!
 
-Visit [wiki](https://github.com/teraprath/Parkour/wiki/) page to see usage guide.
+Visit [docs](https://github.com/teraprath/Parkour/wiki/) page to see usage guide.
