@@ -13,8 +13,8 @@
 ## Features
 - Easy to use and lightweight
 - Fully customizable (Modular System)
-- New movement abilities: Double Jump, Crash Jump, Bullet Jump, Wall Jump & Climbing!
-- Stamina System (using Hungerbar) with Resourcepack (not required)
+- New movement abilities: **Double Jump, Crash Jump, Bullet Jump, Wall Jump & Climbing!**
+- **Stamina** System (using Hungerbar) with Resourcepack (not required)
 
 ## How to install
 1. Download the [latest](https://github.com/teraprath/Parkour/releases/latest) release and put the `Parkour.jar` file into your `plugins/`-Folder.
