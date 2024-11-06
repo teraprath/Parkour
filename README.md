@@ -7,7 +7,8 @@
     <br>
     <br>
     <p>Movement Abilities for Paper 1.21+<p>
-</div>
+    <br>
+    <img src="https://raw.githubusercontent.com/teraprath/Parkour/main/img/preview.gif"></div>
 </div>
 
 ## Features
